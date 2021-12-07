@@ -1,12 +1,14 @@
 # building model for predicting the cost of medical insurance
 
 ## MVP
-    The goal of this project is to help insurance companies to predict the price for every individual patient based on several factors. For example, Age, Body mass index and number of children covered by health insurance / Number of dependents. 
+The goal of this project is to help insurance companies to predict the price for every individual patient based on several factors.
+For example, Age, Body mass index and number of children covered by health insurance / Number of dependents. 
+
 Done by:
 
-###### Nawaf al Mutairi
+##### Nawaf al Mutairi
 
-###### Surayyi al Qahtani
+##### Surayyi al Qahtani
 
 ***
 
